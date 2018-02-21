@@ -81,6 +81,10 @@ Following is a list of application functionality to be added in the near future:
 * Database
 * Python
 
+Chris Fields
+
+* HTML 5
+* CSS
 
 ## License
 ---
